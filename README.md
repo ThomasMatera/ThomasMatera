@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+Hello all that may see this, my name is Thomas Matera and this is my second semester at NCC. My major is Computer Science and I want to learn how to make video games one day, which also happens to be my favorite hobby
